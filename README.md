@@ -16,6 +16,7 @@ I’m eager to continue exploring the intersection of science and technology in 
 
 ### Web application photos
 <img src="website photos/Screenshot from 2023-09-15 10-05-08.png"><img/>
-<img src="website photos/Screenshot from 2023-09-15 10-05-08.png"><img/>
-<img src="website photos/Screenshot from 2023-09-15 10-05-08.png"><img/>
+#### Home page of the application; contains the form to specify experiment parameters
 
+<img src="website photos/Screenshot from 2023-08-29 16-52-14.png"><img/>
+#### Results section of the simulation
