@@ -8,3 +8,5 @@ I had the chance to work alongside domain experts in a real-world scientific env
 Many thanks to my supervisor Rose Yemelyanova and Alessandro Bombardi for their constant support throughout my placement. Special mention also for the I16 beamline team at Diamond for guiding me through this journey.
 
 I’m eager to continue exploring the intersection of science and technology in my future endeavours.
+
+
