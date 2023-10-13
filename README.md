@@ -1,4 +1,6 @@
 # Diamond Placement
+
+### Description
 Imagine conducting an experiment virtually, where you can analyse data and find the best possible match for your observations. A week ago I completed my summer placement at Diamond Light Source synchrotron, and this was exactly my project.
 
 During my time here, I developed a modern website that simulates X-ray Magnetic Scattering building upon the work of Dr. Alessandro Bombardi. The application also includes data analysis tools that can help in finding the best-fit parameters for experimental observations.
@@ -9,5 +11,8 @@ Many thanks to my supervisor Rose Yemelyanova and Alessandro Bombardi for their 
 
 I’m eager to continue exploring the intersection of science and technology in my future endeavours.
 
-
+### Academic Poster
 <img src="Poster.png"><img/>
+
+
+### Web application photos
