@@ -10,3 +10,4 @@ Many thanks to my supervisor Rose Yemelyanova and Alessandro Bombardi for their 
 I’m eager to continue exploring the intersection of science and technology in my future endeavours.
 
 
+<img src="Poster.png"><img/>
